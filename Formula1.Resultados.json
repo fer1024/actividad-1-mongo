@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6640f7d4437adddcab93e397"
+  },
+  "circuito": "Circuit de Barcelona-Catalunya",
+  "ganador": "Lewis Hamilton",
+  "tiempo": "1:33:07",
+  "fecha": "2024-05-01"
+},
+{
+  "_id": {
+    "$oid": "6640f7d4437adddcab93e398"
+  },
+  "circuito": "Silverstone Circuit",
+  "ganador": "Max Verstappen",
+  "tiempo": "1:28:49",
+  "fecha": "2024-05-15"
+},
+{
+  "_id": {
+    "$oid": "6640f7d4437adddcab93e399"
+  },
+  "circuito": "Monza Circuit",
+  "ganador": "Charles Leclerc",
+  "tiempo": "1:19:53",
+  "fecha": "2024-05-29"
+},
+{
+  "_id": {
+    "$oid": "6640f7d4437adddcab93e39a"
+  },
+  "circuito": "Red Bull Ring",
+  "ganador": "Lewis Hamilton",
+  "tiempo": "1:20:46",
+  "fecha": "2024-06-12"
+},
+{
+  "_id": {
+    "$oid": "6640f7d4437adddcab93e39b"
+  },
+  "circuito": "Circuit de Monaco",
+  "ganador": "Max Verstappen",
+  "tiempo": "1:44:27",
+  "fecha": "2024-06-26"
+}]
