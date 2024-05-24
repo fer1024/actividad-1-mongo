@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6640f6cf437adddcab93e37e"
+  },
+  "nombre": "Mercedes",
+  "pais": "Alemania",
+  "fundacion": 1954,
+  "titulos_constructores": 8
+},
+{
+  "_id": {
+    "$oid": "6640f6cf437adddcab93e37f"
+  },
+  "nombre": "Red Bull Racing",
+  "pais": "Austria",
+  "fundacion": 2005,
+  "titulos_constructores": 4
+},
+{
+  "_id": {
+    "$oid": "6640f6cf437adddcab93e380"
+  },
+  "nombre": "Ferrari",
+  "pais": "Italia",
+  "fundacion": 1950,
+  "titulos_constructores": 16
+},
+{
+  "_id": {
+    "$oid": "6640f6cf437adddcab93e381"
+  },
+  "nombre": "McLaren",
+  "pais": "Reino Unido",
+  "fundacion": 1963,
+  "titulos_constructores": 8
+},
+{
+  "_id": {
+    "$oid": "6640f6cf437adddcab93e382"
+  },
+  "nombre": "Williams",
+  "pais": "Reino Unido",
+  "fundacion": 1977,
+  "titulos_constructores": 9
+}]

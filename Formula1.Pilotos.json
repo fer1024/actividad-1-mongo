@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6640f78c437adddcab93e389"
+  },
+  "nombre": "Lewis Hamilton",
+  "equipo": "Mercedes",
+  "nacionalidad": "Reino Unido",
+  "edad": 37
+},
+{
+  "_id": {
+    "$oid": "6640f78c437adddcab93e38a"
+  },
+  "nombre": "Max Verstappen",
+  "equipo": "Red Bull Racing",
+  "nacionalidad": "Países Bajos",
+  "edad": 24
+},
+{
+  "_id": {
+    "$oid": "6640f78c437adddcab93e38b"
+  },
+  "nombre": "Charles Leclerc",
+  "equipo": "Ferrari",
+  "nacionalidad": "Mónaco",
+  "edad": 25
+},
+{
+  "_id": {
+    "$oid": "6640f78c437adddcab93e38c"
+  },
+  "nombre": "Lando Norris",
+  "equipo": "McLaren",
+  "nacionalidad": "Reino Unido",
+  "edad": 22
+},
+{
+  "_id": {
+    "$oid": "6640f78c437adddcab93e38d"
+  },
+  "nombre": "George Russell",
+  "equipo": "Williams",
+  "nacionalidad": "Reino Unido",
+  "edad": 24
+}]

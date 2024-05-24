@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6640f7bc437adddcab93e390"
+  },
+  "nombre": "Circuit de Barcelona-Catalunya",
+  "pais": "España",
+  "ciudad": "Montmeló",
+  "vueltas": 66
+},
+{
+  "_id": {
+    "$oid": "6640f7bc437adddcab93e391"
+  },
+  "nombre": "Silverstone Circuit",
+  "pais": "Reino Unido",
+  "ciudad": "Silverstone",
+  "vueltas": 52
+},
+{
+  "_id": {
+    "$oid": "6640f7bc437adddcab93e392"
+  },
+  "nombre": "Monza Circuit",
+  "pais": "Italia",
+  "ciudad": "Monza",
+  "vueltas": 53
+},
+{
+  "_id": {
+    "$oid": "6640f7bc437adddcab93e393"
+  },
+  "nombre": "Red Bull Ring",
+  "pais": "Austria",
+  "ciudad": "Spielberg",
+  "vueltas": 71
+},
+{
+  "_id": {
+    "$oid": "6640f7bc437adddcab93e394"
+  },
+  "nombre": "Circuit de Monaco",
+  "pais": "Mónaco",
+  "ciudad": "Montecarlo",
+  "vueltas": 78
+}]

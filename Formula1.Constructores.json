@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6640f7f4437adddcab93e39e"
+  },
+  "equipo": "Mercedes",
+  "pilotos": [
+    "Lewis Hamilton",
+    "Valtteri Bottas"
+  ],
+  "titulos": 8
+},
+{
+  "_id": {
+    "$oid": "6640f7f4437adddcab93e39f"
+  },
+  "equipo": "Red Bull Racing",
+  "pilotos": [
+    "Max Verstappen",
+    "Sergio Perez"
+  ],
+  "titulos": 4
+},
+{
+  "_id": {
+    "$oid": "6640f7f4437adddcab93e3a0"
+  },
+  "equipo": "Ferrari",
+  "pilotos": [
+    "Charles Leclerc",
+    "Carlos Sainz"
+  ],
+  "titulos": 16
+},
+{
+  "_id": {
+    "$oid": "6640f7f4437adddcab93e3a1"
+  },
+  "equipo": "McLaren",
+  "pilotos": [
+    "Lando Norris",
+    "Daniel Ricciardo"
+  ],
+  "titulos": 8
+},
+{
+  "_id": {
+    "$oid": "6640f7f4437adddcab93e3a2"
+  },
+  "equipo": "Williams",
+  "pilotos": [
+    "George Russell",
+    "Nicholas Latifi"
+  ],
+  "titulos": 9
+}]
